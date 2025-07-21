@@ -15,3 +15,7 @@ pict data.txt > result.xls
 pict data.txt /o:max > result_max.xls
 ```
 
+## 단위 테스트
+https://cyber-dojo.org/
+
+
