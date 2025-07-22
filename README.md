@@ -34,6 +34,8 @@ cppcheck  --enable=all --inconclusive --xml --xml-version=2 src 2> cppcheck.xml
 ```
 "c:\Program Files\Cppcheck\cppcheck.exe"  --enable=all --inconclusive --xml --xml-version=2 src 2> cppcheck.xml
 ```
+<img width="1857" height="706" alt="image" src="https://github.com/user-attachments/assets/7a00ee98-b689-45ae-9943-5efe28a68ca7" />
+
 
 ### MISRA 분석을 위한 실행 (cli에서의 실행 방법)
 #### 1. MISRA_2012.txt 다운로드 및 복사 
