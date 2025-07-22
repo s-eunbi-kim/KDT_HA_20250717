@@ -34,7 +34,20 @@ cppcheck  --enable=all --inconclusive --xml --xml-version=2 src 2> cppcheck.xml
 ```
 "c:\Program Files\Cppcheck\cppcheck.exe"  --enable=all --inconclusive --xml --xml-version=2 src 2> cppcheck.xml
 ```
+
+### 설정 파일
+#### Severity 분류
 <img width="1857" height="706" alt="image" src="https://github.com/user-attachments/assets/7a00ee98-b689-45ae-9943-5efe28a68ca7" />
+
+#### 설정
+* 편집 > 설정 > 일반 탭
+<img width="1604" height="821" alt="image" src="https://github.com/user-attachments/assets/e6987930-5e9f-4334-a783-cfd7723809d1" />
+
+* 편집 > 설정 > Addons
+<img width="1604" height="821" alt="image" src="https://github.com/user-attachments/assets/a8131dc0-17be-4f50-99e7-a0cdbbbb61a5" />
+
+* 파일 > 프로젝트 파일 편집 > Addons
+<img width="1640" height="1055" alt="image" src="https://github.com/user-attachments/assets/2177522d-d94f-4653-a171-4c5f4eac09b1" />
 
 
 ### MISRA 분석을 위한 실행 (cli에서의 실행 방법)
